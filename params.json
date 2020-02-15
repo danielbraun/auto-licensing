@@ -1,0 +1,15 @@
+{
+    "DynamicTemplateID": "737ccbf3-1655-4bfd-bd90-a012a059b996",
+    "QueryFilters": {
+        "skip": {
+            "Query": 0
+        },
+        "limit": {
+            "Query": 10
+        },
+        "yishuv": {
+            "Query": null
+        }
+    },
+    "From": 0
+}
